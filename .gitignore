@@ -1,0 +1,7 @@
+__pycache__/
+onnx_output/
+output/
+dataset/
+cpp/build
+cpp/onnxruntime-linux-x64-1.19.0
+msra.tgz
